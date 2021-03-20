@@ -1,8 +1,8 @@
-# TASK MANAGER 
+# TO-DO-APP
 
 A simple todo list to manage tasks built using react and redux toolkit
 
-### [Live Demo](https://managetasks.netlify.app/)
+### [Live Demo](https://todo-app-project4.netlify.app/)
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ A simple todo list to manage tasks built using react and redux toolkit
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jawariaalvi32/task-manager.git
+   git clone https://github.com/Maryam482/TO-DO-APP.git
    ```
 2. Install NPM packages
    ```sh
